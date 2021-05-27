@@ -11,7 +11,7 @@ function AboutPage() {
       <h1>About</h1>
       <Link to="/">Go back home</Link>
       <p>or</p>
-      <Link to="/projects/test">Go back projects</Link>
+      <Link to="/projects">Go back projects</Link>
     </Layout>
   )
 }

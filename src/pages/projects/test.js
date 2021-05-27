@@ -10,7 +10,7 @@ export default function Test() {
 
       <h1>Test Project</h1>
 
-      <Link to="/">Go back to home</Link>
+      <Link to="/projects">Go back to projects</Link>
     </Layout>
   )
 }
